@@ -14,9 +14,6 @@ A small Phaser 3 web game for Portfolio Game 2. Pick pumpkins, dodge ghosts, bea
 - Ghosts chase you. Each touch costs a life (Damage). You have 3.
 - Win by collecting 12 pumpkins. Lose by running out of lives or time (End).
 
-## Run locally
-Open `index.html`, or run `python3 -m http.server` and visit http://localhost:8000.
-
 ## Project structure
 ```
 index.html        entry point (desktop + mobile)

@@ -32,5 +32,5 @@ ATTRIBUTION.md    tools, licenses, references
 ## Tech stack
 Phaser 3.80 (arcade physics), plain JavaScript, no build step. Graphics are drawn in code. Code written with conversational AI coding tools (see `PROMPT_LOG.md`). Sound effects generated with ElevenLabs Sound Effects v2 (see `ATTRIBUTION.md`).
 
-## References and moodboard
-_(Add: inspiration games, Halloween/autumn palette references, target sound style.)_
+## Presentation
+https://docs.google.com/presentation/d/10GP7crqvyL8hBsQniAZfHqjNLScrseLI/edit?usp=sharing&ouid=102785686480219330357&rtpof=true&sd=true
